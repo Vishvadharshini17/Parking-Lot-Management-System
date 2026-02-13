@@ -106,6 +106,8 @@ START WITH 10
 INCREMENT BY 1
 MAXVALUE 99
 ```
+<img width="965" height="360" alt="Screenshot 2026-02-13 134620" src="https://github.com/user-attachments/assets/834f5040-d1da-4c4b-8520-e7c1a612fcf4" />
+<img width="1053" height="471" alt="Screenshot 2026-02-13 134632" src="https://github.com/user-attachments/assets/a5dacc8b-a752-4710-a76c-f4991bfcc773" />
 
 ---
 
@@ -208,6 +210,6 @@ Displays a list of all vehicles currently stored in the database.
 
 ## Student Details
 
-- **Vishva Dharshini**
+- **Vishvadharshini**
 
 - **717823P161**
